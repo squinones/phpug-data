@@ -148,5 +148,16 @@
     {
         "name": "Madison PHP",
         "first_meetup": "2004-12-17"
+    },
+    {
+        "name": "DC PHP",
+        "locations": [
+            {
+                "name": "Washington, DC, USA",
+            }
+        ],
+        "website": "http://www.meetup.com/DC-PHP/",
+        "twitter": "@dcphp",
+        "calendar_feed": "http://www.meetup.com/DC-PHP/events/rss/"
     }
 ]
